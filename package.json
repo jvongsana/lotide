@@ -1,8 +1,8 @@
 {
-  "name": "lotide",
+  "name": "@jvongsana/lotide",
   "version": "1.0.0",
-  "description": "",
-  "main": "assertArraysEqual.js",
+  "description": "A mini clone of the [Lodash](https://lodash.com) library",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/jvongsana/lotide.git"
   },
-  "author": "",
+  "author": "Jason Vongsana",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jvongsana/lotide/issues"
@@ -22,5 +22,6 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^8.1.3"
-  }
+  },
+  "dependencies": {}
 }
